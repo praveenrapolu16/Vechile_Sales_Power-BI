@@ -35,5 +35,5 @@ An interactive Power BI dashboard for analyzing sales performance, tracking prod
 ## 📬 Contact
 
 For questions or feedback about this dashboard:
-- **Email**: [your.email@example.com](mailto:praveenrapolu07@gmail.com)
-- **LinkedIn**: [Your Name](https://praveen-rapolu-7a3119278.com)
+- **Email**: [praveenrapolu07@gmail.com](mailto:praveenrapolu07@gmail.com)
+- **LinkedIn**: [Praveen Rapolu](https://praveen-rapolu-7a3119278.com)
